@@ -1,0 +1,7 @@
+﻿$axure.loadCurrentPage(
+(function() {
+    var _ = function() { var r={},a=arguments; for(var i=0; i<a.length; i+=2) r[a[i]]=a[i+1]; return r; }
+    var _creator = function() { return _(b,c,d,e,f,g,h,g,i,_(j,k),l,[m,n,o,p,q,r,s,t,u,v,w,x],y,_(z,A,B,C,D,E,F,_(),G,_(H,I,J,K,L,_(M,N,O,P),Q,null,R,K,S,K,T,U,V,null,W,X,Y,Z,ba,bb,bc,X),bd,_(),be,_(),bf,_(bg,[])),bh,_(),bi,_());}; 
+var b="url",c="connect_to_wifi.html",d="generationDate",e=new Date(1541762733710.17),f="isCanvasEnabled",g=false,h="isAdaptiveEnabled",i="sketchKeys",j="",k="s0",l="variables",m="OnLoadVariable",n="home_button_state",o="events_button_state",p="tutorials_button_state",q="intrnt_sfty_button_state",r="smartphone",s="stationarycomputer",t="tablet",u="apple",v="linux",w="windows",x="android",y="page",z="packageId",A="c89cdf40c81946fa9704575bcd415420",B="type",C="Axure:Page",D="name",E="connect to wifi",F="notes",G="style",H="baseStyle",I="627587b6038d43cca051c114ac41ad32",J="pageAlignment",K="near",L="fill",M="fillType",N="solid",O="color",P=0xFFFFFFFF,Q="image",R="imageHorizontalAlignment",S="imageVerticalAlignment",T="imageRepeat",U="auto",V="favicon",W="sketchFactor",X="0",Y="colorStyle",Z="appliedColor",ba="fontName",bb="Applied Font",bc="borderWidth",bd="adaptiveStyles",be="interactionMap",bf="diagram",bg="objects",bh="masters",bi="objectPaths";
+return _creator();
+})());
